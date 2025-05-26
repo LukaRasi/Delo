@@ -51,5 +51,8 @@ function primerjaj($niz1, $niz2) {
   return true;
  }
 
-
+var_dump(primerjaj("A9999999", "9999999A")); 
+var_dump(primerjaj("M2a", "Ku2"));   
+var_dump(primerjaj("H1llo", "He2o")); 
+?>
 
